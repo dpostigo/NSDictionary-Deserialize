@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "NSDictionary-Deserialize"
-  s.version      = "0.1.1"
+  s.version      = "0.1.0"
   s.summary      = "NSDictionary-Deserialize"
   s.homepage     = "http://dpostigo.com"
   s.license      = 'BSD'
